@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with cpp extensions
+!*.cpp
+
+# Unignore all dirs
+!*/
+
+!.gitignore
+
+# Directories and Files
+secret/
+Secret/
+.secret/
