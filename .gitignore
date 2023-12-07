@@ -3,6 +3,8 @@
 
 # Unignore all with cpp extensions
 !*.cpp
+!LICENSE
+!README.md
 
 # Unignore all dirs
 !*/
